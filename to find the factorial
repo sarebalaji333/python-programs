@@ -1,0 +1,7 @@
+def factorial (n):
+    if n<= 1:
+        retutn 1
+    else:
+        return n* factorial (n-1)
+    num=int(input("knter the number:")
+            print(factorial (num))
